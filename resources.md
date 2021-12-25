@@ -15,6 +15,8 @@
 ## Summarize
 
 - https://github.com/miso-belica/sumy
+- https://github.com/codelucas/newspaper
+- https://github.com/grangier/python-goose
 
 ## Publication Date
 
