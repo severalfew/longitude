@@ -16,6 +16,10 @@
 
 - https://github.com/miso-belica/sumy
 
+## Publication Date
+
+- https://htmldate.readthedocs.io/en/latest/index.html
+
 ## Data Model
 
 - https://neomodel.readthedocs.io/en/latest/getting_started.html#defining-node-entities-and-relationships
