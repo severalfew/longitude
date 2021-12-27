@@ -28,3 +28,7 @@
 - https://neomodel.readthedocs.io/en/latest/properties.html
 - https://neomodel.readthedocs.io/en/latest/module_documentation.html#neomodel.properties.JSONProperty
 - https://neomodel.readthedocs.io/en/latest/module_documentation.html#neomodel.properties.RegexProperty
+
+## Analytics
+
+- https://plausible.io/
