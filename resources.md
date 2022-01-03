@@ -32,3 +32,10 @@
 ## Analytics
 
 - https://plausible.io/
+
+## Deployment
+
+- https://docs.docker.com/registry/deploying/
+- https://hub.docker.com/_/rabbitmq
+- https://kubernetes.io/docs/concepts/
+- https://www.linode.com/docs/guides/deploy-container-image-to-kubernetes/
